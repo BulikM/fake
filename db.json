@@ -7,7 +7,7 @@
       "location": "Boom",
       "date": "July 16 & 17, 2021",
       "time": "09:00",
-      "imagePath": "tomorrowland.png",
+      "imagePath": "tomorrowland.png"
     },
     {
       "id": 2,
@@ -17,9 +17,10 @@
       "location": "Werchter",
       "date": "July 4, 2021",
       "time": "09:00",
-      "imagePath": "rockwerchter.png",
+      "imagePath": "rockwerchter.png"
     },
-  {"id": 3,
+  {
+    "id": 3,
     "category": "concert",
     "title": "Pukkelpop",
     "description": "Festival Rock",
@@ -28,7 +29,8 @@
     "time": "09:00",
     "imagePath": "pukkelpop.png"
   },
-  {"id": 4,
+  {
+    "id": 4,
     "category": "concert",
     "title": "Graspop",
     "description": "Festival Rock",
@@ -37,5 +39,5 @@
     "time": "09:00",
     "imagePath": "graspop.png"
   }
-  ],
-};
+  ]
+}

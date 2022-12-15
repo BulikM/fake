@@ -9,13 +9,13 @@
       "date": "July 16 & 17, 2021",
       "time": "09:00",
       "imagePath": "tomorrowland.png",
-      "detail": [
+      "detail": { "test" : [
         {
           "parking":  true,
           "rolstoeltoegangkelijk":  true,
           "foodcorner":  false
         }
-      ]
+      ]}
     },
     {
       "id": 2,
